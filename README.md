@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como parte do **Challenge de Formação em Data Sc
 
 ## 📈 Gráfico 1 – Faturamento Total por Loja
 
-![Faturamento Total por Loja](https://github.com/Guilhermee36/Alura_Store/blob/main/gr%C3%A1ficos/Grafico_AnaliseFaturamento.png))
+![Faturamento Total por Loja](https://github.com/Guilhermee36/Alura_Store/blob/main/gr%C3%A1ficos/Grafico_AnaliseFaturamento.png)
 
 ### 🔍 Insights:
 
@@ -154,15 +154,6 @@ Essa loja representa a **menor eficiência comercial e operacional** da rede.
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&color=525252)
-
----
-
-## 🚀 Como Executar no Colab
-
-1. Acesse o notebook via Google Colab
-2. Clique em `Arquivo` > `Salvar uma cópia no Drive`
-3. Execute as células na ordem
-4. Visualize os gráficos e interprete os resultados conforme o relatório
 
 ---
 
